@@ -3,6 +3,7 @@
 *.png
 *.svg
 *.html
+!example.png
 
 # Test
 test/
