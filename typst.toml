@@ -9,3 +9,4 @@ repository = "https://github.com/hackyardo/bookmark-kabob"
 keywords = ["viewer", "outline", "toc"]
 categories = ["utility", "book"]
 compiler = "0.6.0"
+exclude = ["example.png"]
